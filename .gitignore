@@ -1,0 +1,5 @@
+# Ignore C code from Jeroen
+sweepJeroen.c
+
+# Ignore PyCharm stuff
+/.idea
